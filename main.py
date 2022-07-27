@@ -191,10 +191,6 @@ class Game:
         running = True
         pause = False
 
-
-
-
-
         while running:
             if not pause:
             
